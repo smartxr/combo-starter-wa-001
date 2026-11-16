@@ -1,0 +1,5 @@
+fastapi>=0.115
+fastmcp>=3.0
+uvicorn[standard]
+gunicorn
+azure-monitor-opentelemetry
